@@ -35,9 +35,9 @@ The data had to be cleaned, transformed and wrangled in Excel to make it more un
   
 <p>&nbsp;  </p>
 
-# <span style="color:orange">Analysys</span>
+# <span style="color:green">Analysys</span>
 
-![image](images/EnergyvsGDP.JPG){:style="display:block;margin:0 auto"}
+![image](images/correlationdeathspop.JPG){:style="display:block;margin:0 auto"}
 
 Deaths caused by influenza are significantly correlated with the population aged 65 and above, demonstrating a strong relationship between the two variables. This connection is rooted in the heightened vulnerability of older adults to influenza-related complications due to age-related declines in immune function and increased prevalence of underlying health conditions.
 <p>&nbsp;  </p>
@@ -67,14 +67,9 @@ California, Florida, Texas, and New York are home to the largest concentrations 
 
 <p>&nbsp;  </p>
 
-![image](images/renewableenergymix.JPG)|![image](images/legend2.png)
-
-Although China emits the most CO2, it is also the country that leads energy transition to renewables sources. United States is also making efforts to include more renewable sources to their energy mix. Indonesia, South Korea, Iran and Saudi Arabia are still a little behind in energy transition, compared to Germany which emits the same amount but produces four times more renewable energy.
-<p>&nbsp;  </p>
-
 # <span style="color:green">Conclusion</span>
 
-![image](images/mapofdeathsbyinfluenza.JPG)|![image](images/legend.png)
+![image](images/mapofdeathsbyinfluenza.JPG)
 
 Influenza is more deadly for people over 65 compared to those younger, largely due to weakened immune systems and higher rates of underlying health issues. This makes older adults more susceptible to severe complications like pneumonia, emphasizing the need for targeted interventions and vaccination efforts to protect them from the virus's impacts. Protecting this age range is crucial to lower deaths caused by influenza.
 
@@ -82,7 +77,7 @@ Influenza is more deadly for people over 65 compared to those younger, largely d
 
 # <span style="color:green">Recommendation</span>
 
-![image](images/mapofpriorities.JPG)|![image](images/legend.png)
+![image](images/mapofpriorities.JPG)
 
 Given that California, Florida, Texas, New York, Pennsylvania, Illinois, Ohio, and Michigan collectively house 48% of the total population aged 65 and older in the United States, it is advisable to allocate additional medical resources to these states during the winter months. This targeted allocation would help meet the heightened healthcare needs of older adults, who are particularly vulnerable to seasonal illnesses such as influenza during this time.
 
