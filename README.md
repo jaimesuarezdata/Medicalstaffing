@@ -55,13 +55,13 @@ The population of individuals aged 65 and above is experiencing a notable increa
 <p>&nbsp;  </p>
 
 
-![image](images/deathsandpopulation.JPG)|![image](images/legend.png)
+![image](images/deathsandpopulation.JPG)
 
 The State of New York stands out when comparing the total population and the deaths caused by influenza.
 
 <p>&nbsp;  </p>
 
-![image](images/percentagepop65+bystate.JPG)|![image](images/legend.png)
+![image](images/percentagepop65+bystate.JPG)
 
 California, Florida, Texas, and New York are home to the largest concentrations of individuals aged 65 and above in the United States. These states attract retirees due to various factors like favorable climates, and amenities, leading to significant population growth in this demographic. As a result, they face unique challenges related to aging populations, including healthcare demand and social support needs specific to older adults.
 
